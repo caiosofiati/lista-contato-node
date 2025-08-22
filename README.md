@@ -1,4 +1,4 @@
-# lista-contato-node
+# Lista de Contatos - Node.js & Typescript
 
 Estudo GIT & Node.js
 
